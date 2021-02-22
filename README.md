@@ -13,7 +13,7 @@ My name is Hamze, computer science student at the university of Siegen, Germany.
 - 🌱 I’m currently learning Web-Design and Development 
 - 💬 Ask me about anything you want
 - 📫 How to reach me: Hamze_ali1995@hotmail.com 
-- 😄 Pronouns: hi/his 
+- 😄 Pronouns: he/his 
 - ⚡ Fun fact: Coding is a lifstyle :smiley:
 
 <br>
