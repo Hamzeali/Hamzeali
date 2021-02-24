@@ -39,7 +39,7 @@ My name is Hamze, computer science student at the university of Siegen, Germany.
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzeali)](https://github.com/hamzeali/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzeali)](https://github.com/hamzeali/)
  
 
 ## :mailbox_with_mail: Find me on:
