@@ -25,6 +25,7 @@ My name is Hamze, computer science student at the university of Siegen, Germany.
   [<img src='https://github.com/Hamzeali/Hamzeali/blob/main/git_images/apache.png' alt='apache' height='40'>](https://github.com/hamzeali) &nbsp; &nbsp; &nbsp;
   [<img src='https://github.com/Hamzeali/Hamzeali/blob/main/git_images/html.png' alt='html' height='40'>](https://github.com/hamzeali) &nbsp; &nbsp; &nbsp;
   [<img src='https://github.com/Hamzeali/Hamzeali/blob/main/git_images/css.png' alt='css' height='40'>](https://github.com/hamzeali) &nbsp; &nbsp; &nbsp;
+  [<img src='https://github.com/Hamzeali/hamzeali/blob/main/git_images/javascript.png' alt='javascript' height='40'>](https://github.com/hamzeali) &nbsp; &nbsp; &nbsp;
   [<img src='https://github.com/Hamzeali/Hamzeali/blob/main/git_images/sqlite.png' alt='sqlite' height='40'>](https://github.com/hamzeali) 
   
   <br>
