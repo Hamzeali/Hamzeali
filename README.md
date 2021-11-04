@@ -8,9 +8,9 @@
 My name is Hamze, computer science student at the university of Siegen, Germany. 
 
 
-- 🔭 I’m currently working on finishing my bachelor's degree in computer science
+- 🔭 I’m currently working on my bachelor thesis in computer science
 - :nerd_face: I’m java developer
-- 🌱 I’m currently learning Flutter & Dart for Android-Development 
+- 🌱 I’m currently learning Dart & Flutter 
 - 💬 Ask me about anything you want
 - 📫 How to reach me: Hamze_ali1995@hotmail.com 
 - 😄 Pronouns: he/his 
