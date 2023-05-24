@@ -5,7 +5,7 @@
 
 #### Flutter and Java developer :heart_eyes:
 ## About me
-My name is Hamze, Software Engieer graduated from <a href="https://www.uni-siegen.de/start/">Siegen University</a>, Germany. 
+My name is Hamze, Software Engineer graduated from <a href="https://www.uni-siegen.de/start/">Siegen University</a>, Germany. 
 
 
 - 🔭 I’m currently working as a software engineer in at <a href="https://www.point.de/startseite/">PoINT Software & Systems</a>
