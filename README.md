@@ -3,14 +3,13 @@
 
 [<img src='https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif' alt='java'>](https://github.com/hamzeali)
 
-#### Java programmer and web developer :heart_eyes:
+#### Flutter and Java developer :heart_eyes:
 ## About me
-My name is Hamze, computer science student at the university of Siegen, Germany. 
+My name is Hamze, Software Engieer graduated from <a href="https://www.uni-siegen.de/start/">Siegen University</a>, Germany. 
 
 
-- 🔭 I’m currently working on my bachelor thesis in computer science
+- 🔭 I’m currently working as a software engineer in at <a href="https://www.point.de/startseite/">PoINT Software & Systems</a>
 - :nerd_face: I’m java developer
-- 🌱 I’m currently learning Dart & Flutter 
 - 💬 Ask me about anything you want
 - 📫 How to reach me: Hamze_ali1995@hotmail.com 
 - 😄 Pronouns: he/his 
